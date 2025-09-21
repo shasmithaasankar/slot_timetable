@@ -24,6 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+```
 <html>
     <head>
         <body>
@@ -46,11 +47,14 @@ Execute the program using runserver command.
 
 
 </html>
-
-
-
+```
 ## OUTPUT
-![alt text](<slot time tabe.png>)
+![alt text](<Screenshot 2025-09-21 213039.png>)
+
+
+
+
+
 
 
 
